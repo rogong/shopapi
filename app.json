@@ -1,0 +1,8 @@
+{
+    "name": "Shopapi",
+    "description": "A product api for developer technical assessment",
+    "repository": "https://github.com/rogong/shopapi.git",
+    "logo": "",
+    "keywords": ["node", "express", "static"],
+    "image": "heroku/nodejs"
+}
